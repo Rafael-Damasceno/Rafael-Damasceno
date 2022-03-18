@@ -7,8 +7,8 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/e4216f30265ffaf1c1b5951b9050a9f2.gif">
+  <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Rafael-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/e4216f30265ffaf1c1b5951b9050a9f2.gif">
 </div>
   
   ##
