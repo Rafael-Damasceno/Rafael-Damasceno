@@ -1,5 +1,5 @@
-### OI ME CHAMO RAFAEL👋
-
+# OI ME CHAMO RAFAEL👋
+## Sou apaixonado por tecnologia e sempre busco aprender novas linguagens e ferramentas. Atualmente, estou cursando engenharia mecânica na UFRB e simultaneamente concluindo cursos online de programação."
 
 <div align="center">
   <a href="https://github.com/Rafael-Damasceno">
