@@ -1,10 +1,6 @@
 ### OI ME CHAMO RAFAEL👋
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rafael-Damasceno)](https://git.io/streak-stats)
-
-
 <div align="center">
   <a href="https://github.com/Rafael-Damasceno">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rafael-Damasceno&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -19,6 +15,9 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Rafael-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/e4216f30265ffaf1c1b5951b9050a9f2.gif">
 </div>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Rafael-Damasceno&theme=merko&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
   
   ##
  
