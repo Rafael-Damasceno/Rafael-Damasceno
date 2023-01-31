@@ -16,8 +16,7 @@
   <img align="right" alt="Rafael-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/e4216f30265ffaf1c1b5951b9050a9f2.gif">
 </div>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Rafael-Damasceno&theme=merko&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Rafael-Damasceno&theme=merko&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)]
   
   ##
  
