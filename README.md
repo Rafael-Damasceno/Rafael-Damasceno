@@ -43,7 +43,7 @@
   
   ##
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafael-Damasceno&bg_color=090d09&color=505907&line=93a603&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Rafael-Damasceno's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafael-Damasceno&bg_color=090d09&color=505907&line=93a603&point=ffffff&area=true&hide_border=true)]
     
 </div>
   
