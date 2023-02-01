@@ -1,4 +1,7 @@
-# OI ME CHAMO RAFAEL👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=93A603&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=93A603&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Me+Chamo+Rafael;Tenho+20+Anos;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
 ## Sou apaixonado por tecnologia e sempre busco aprender novas linguagens e ferramentas. Atualmente, estou cursando engenharia mecânica na UFRB e simultaneamente concluindo cursos online de programação."
 
 <div align="center">
@@ -41,5 +44,9 @@
   ##
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafael-Damasceno&bg_color=090d09&color=505907&line=93a603&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+    
 </div>
+  
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=93A603&height=120&section=footer"/>
