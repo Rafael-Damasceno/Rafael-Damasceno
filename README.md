@@ -6,10 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/Rafael-Damasceno">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rafael-Damasceno&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Damasceno&layout=compact&langs_count=7&theme=merko"/>
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=Rafael-Damasceno&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Damasceno&layout=compact&langs_count=7&theme=merko"/>
     
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Rafael-Damasceno&theme=merko&locale=pt_BR&date_format=j%20M%5B%20Y%5D)
+ 
 </div>
   
   ##
@@ -43,7 +43,7 @@
   
   ##
   
-  ![Rafael-Damasceno's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafael-Damasceno&bg_color=090d09&color=505907&line=93a603&point=ffffff&area=true&hide_border=true)
+
     
 </div>
   
