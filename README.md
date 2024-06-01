@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Rafael-Damasceno">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=Rafael-Damasceno&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Damasceno&layout=compact&langs_count=7&theme=merko"/>
     
  
