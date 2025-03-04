@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=93A603&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Me+Chamo+Rafael;Tenho+21+Anos;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-## Sou apaixonado por tecnologia e sempre busco aprender novas linguagens e ferramentas. Atualmente, estou cursando engenharia mecânica na UFRB e simultaneamente concluindo cursos online de programação."
+## Sou apaixonado por tecnologia e sempre busco aprender novas linguagens e ferramentas. Atualmente, estou cursando Engenharia da Computação na UFRB e simultaneamente concluindo cursos online de programação."
 
 <div align="center">
   <a href="https://github.com/Rafael-Damasceno">
