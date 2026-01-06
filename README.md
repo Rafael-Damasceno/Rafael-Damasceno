@@ -41,10 +41,6 @@
   <img align="right" alt="Rafael-pic" height="150" style="border-radius:50px;" src="WnES.gif">
 </div>
   
- ### liguagens e tecnologias com menos experiencia:
- <div style="display: inline_block"><br>
-   <a href="https://github.com/search?q=user%3ARafael-Damasceno+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-
 
  </div>
   
